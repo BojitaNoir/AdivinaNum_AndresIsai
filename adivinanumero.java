@@ -36,6 +36,9 @@ public class adivinanumero {
                     salir = true;
                     System.out.println("Gracias por jugar. ¡Hasta luego!");
                     break;
+                case 3:
+                    System.out.println("Porque apretaste esto bro jijijijij...");
+                    break;
                 default:
                     System.out.println("Opción no válida. Por favor, elige 1 o 2.");
                     break;
